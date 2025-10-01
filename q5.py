@@ -9,14 +9,10 @@ def check_divisibility(num, divisor):
         return False  # Handle division by zero
     return num % divisor == 0
 
-
-
-
 # Task 2
 # Invoke the function "check_divisibility" using the following scenarios:
 # - 10, 2
 # - 7, 3
-
 
 print(check_divisibility(10, 2))  # Output: True
 print(check_divisibility(7, 3))   # Output: False
