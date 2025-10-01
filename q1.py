@@ -25,4 +25,5 @@ print("Result:", result1)  # Expected output: -1
 # Case 2: Numeric input
 result2 = swap(9, 17)
 # Expected print: Swapped values: x = 17 , y = 9
+
 print("Result:", result2)  # Expected output: None (since function only prints)
