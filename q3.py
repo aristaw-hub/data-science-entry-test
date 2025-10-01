@@ -22,4 +22,3 @@ print(update_dictionary({}, "name", "Alice"))
 print(update_dictionary({"age": 25}, "age", 26))
 # Output: 25
 # {'age': 26}
-
