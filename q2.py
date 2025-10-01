@@ -32,4 +32,5 @@ print("Scenario 1:", result1)
 # Scenario 2: Replace all occurrences of "apple" with "orange"
 result2 = find_and_replace(["apple", "banana", "apple"], "apple", "orange")
 print("Scenario 2:", result2)
+
 # Output: ['orange', 'banana', 'orange']
